@@ -12,7 +12,7 @@ export default function Home() {
             Simple note taking application
           </h1>
           <p className="max-w-2xl text-sm text-stone-600 md:text-base">
-            Write ideas, edit them anytime, and keep everything in one place.
+            Write ideas, edit them anytime, and keep everything in one place. 
           </p>
         </header>
 

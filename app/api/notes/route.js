@@ -4,7 +4,7 @@ import { NextResponse } from 'next/server'
 
 function validatePayload(payload) {
     if (!payload || typeof payload !== 'object') {
-        return 'Invalid request body'
+        return 'Invalid request body TEST GIT COMMIT'
     }
 
     const title = typeof payload.title === 'string' ? payload.title.trim() : ''
